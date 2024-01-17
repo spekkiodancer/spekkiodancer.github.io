@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is a recorded jounery of my progress in developing my personal projects. I have many ideas that I want to execute, but I will start with my first project: a pdf reader. I want to create a tool that can find text from a pdf file without having to open it. Ideally, it can do quick search, queries, and regular expressions. The programming language I will be using is Python. Later, I will be using C++ for some of the features. 
