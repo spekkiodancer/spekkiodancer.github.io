@@ -6,6 +6,22 @@ Software development has a lot of research involved. Planning is the most import
 
 ## Regular Expressions: RE Module
 
+While researching regular expressions, I learned a lot about how regular expressions are used in Python. First, the library for the regular expressions for Python is a C extension. The Python interpreter cannot understand C language. Therefore, the code must be compile in order for Python to use the re module. This is done by `re.compile()` which compiles a regular expression patterns. These patterns are special characters that allows for different searches and string patterns. Regular expressions is mainly used to find patterns, matches, and searches for strings:
+
+```Python
+import re.compile('ab*') #ab* are special search patterns.
+```
+
+`re.compile()` is the most important expressions since you cannot use regex without compiling the re module into Python code.
+
+## Regular Expression Syntax
+
+
+
+
+
+
+
 
 
 
